@@ -1,16 +1,6 @@
-# user_api
+# user_api 👤
 
-A new Flutter project.
+Flutter Assignment. ❄️
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Sample Video 🔖
+<video src = "https://github.com/Ritikkumar992/flutter_user_api/assets/75531808/b8048348-49df-4abb-ad6e-5849fd415f47" > </video>
